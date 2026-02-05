@@ -1,0 +1,8 @@
+{
+  "name": "WallAI - Intelligent Wallpapers",
+  "description": "A high-end smartphone wallpaper app powered by Gemini 2.5. Generate unique backgrounds, edit them with natural language, animate them into videos using Veo, and chat with an AI assistant via Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
